@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackIn30Min", "BackIn30Min\BackIn30Min.csproj", "{19DF3932-B303-434A-9530-F5F256327EED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19DF3932-B303-434A-9530-F5F256327EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DF3932-B303-434A-9530-F5F256327EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DF3932-B303-434A-9530-F5F256327EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DF3932-B303-434A-9530-F5F256327EED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEE367EC-7619-413B-BD12-8357624813AB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Coding (Programing Basic)\PoundsToDollars\PoundsToDollars\bin\Debug\netcoreapp3.1\PoundsToDollars.exe
+C:\Coding (Programing Basic)\PoundsToDollars\PoundsToDollars\bin\Debug\netcoreapp3.1\PoundsToDollars.deps.json
+C:\Coding (Programing Basic)\PoundsToDollars\PoundsToDollars\bin\Debug\netcoreapp3.1\PoundsToDollars.runtimeconfig.json
+C:\Coding (Programing Basic)\PoundsToDollars\PoundsToDollars\bin\Debug\netcoreapp3.1\PoundsToDollars.runtimeconfig.dev.json
+C:\Coding (Programing Basic)\PoundsToDollars\PoundsToDollars\bin\Debug\netcoreapp3.1\PoundsToDollars.dll
+C:\Coding (Programing Basic)\PoundsToDollars\PoundsToDollars\bin\Debug\netcoreapp3.1\PoundsToDollars.pdb
+C:\Coding (Programing Basic)\PoundsToDollars\PoundsToDollars\obj\Debug\netcoreapp3.1\PoundsToDollars.csproj.AssemblyReference.cache
+C:\Coding (Programing Basic)\PoundsToDollars\PoundsToDollars\obj\Debug\netcoreapp3.1\PoundsToDollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Basic)\PoundsToDollars\PoundsToDollars\obj\Debug\netcoreapp3.1\PoundsToDollars.AssemblyInfoInputs.cache
+C:\Coding (Programing Basic)\PoundsToDollars\PoundsToDollars\obj\Debug\netcoreapp3.1\PoundsToDollars.AssemblyInfo.cs
+C:\Coding (Programing Basic)\PoundsToDollars\PoundsToDollars\obj\Debug\netcoreapp3.1\PoundsToDollars.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Basic)\PoundsToDollars\PoundsToDollars\obj\Debug\netcoreapp3.1\PoundsToDollars.dll
+C:\Coding (Programing Basic)\PoundsToDollars\PoundsToDollars\obj\Debug\netcoreapp3.1\PoundsToDollars.pdb
+C:\Coding (Programing Basic)\PoundsToDollars\PoundsToDollars\obj\Debug\netcoreapp3.1\PoundsToDollars.genruntimeconfig.cache

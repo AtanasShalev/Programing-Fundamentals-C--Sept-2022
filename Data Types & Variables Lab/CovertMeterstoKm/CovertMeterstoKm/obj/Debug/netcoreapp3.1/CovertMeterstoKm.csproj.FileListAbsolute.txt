@@ -1,0 +1,14 @@
+C:\Coding (Programing Basic)\CovertMeterstoKm\CovertMeterstoKm\bin\Debug\netcoreapp3.1\CovertMeterstoKm.exe
+C:\Coding (Programing Basic)\CovertMeterstoKm\CovertMeterstoKm\bin\Debug\netcoreapp3.1\CovertMeterstoKm.deps.json
+C:\Coding (Programing Basic)\CovertMeterstoKm\CovertMeterstoKm\bin\Debug\netcoreapp3.1\CovertMeterstoKm.runtimeconfig.json
+C:\Coding (Programing Basic)\CovertMeterstoKm\CovertMeterstoKm\bin\Debug\netcoreapp3.1\CovertMeterstoKm.runtimeconfig.dev.json
+C:\Coding (Programing Basic)\CovertMeterstoKm\CovertMeterstoKm\bin\Debug\netcoreapp3.1\CovertMeterstoKm.dll
+C:\Coding (Programing Basic)\CovertMeterstoKm\CovertMeterstoKm\bin\Debug\netcoreapp3.1\CovertMeterstoKm.pdb
+C:\Coding (Programing Basic)\CovertMeterstoKm\CovertMeterstoKm\obj\Debug\netcoreapp3.1\CovertMeterstoKm.csproj.AssemblyReference.cache
+C:\Coding (Programing Basic)\CovertMeterstoKm\CovertMeterstoKm\obj\Debug\netcoreapp3.1\CovertMeterstoKm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Basic)\CovertMeterstoKm\CovertMeterstoKm\obj\Debug\netcoreapp3.1\CovertMeterstoKm.AssemblyInfoInputs.cache
+C:\Coding (Programing Basic)\CovertMeterstoKm\CovertMeterstoKm\obj\Debug\netcoreapp3.1\CovertMeterstoKm.AssemblyInfo.cs
+C:\Coding (Programing Basic)\CovertMeterstoKm\CovertMeterstoKm\obj\Debug\netcoreapp3.1\CovertMeterstoKm.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Basic)\CovertMeterstoKm\CovertMeterstoKm\obj\Debug\netcoreapp3.1\CovertMeterstoKm.dll
+C:\Coding (Programing Basic)\CovertMeterstoKm\CovertMeterstoKm\obj\Debug\netcoreapp3.1\CovertMeterstoKm.pdb
+C:\Coding (Programing Basic)\CovertMeterstoKm\CovertMeterstoKm\obj\Debug\netcoreapp3.1\CovertMeterstoKm.genruntimeconfig.cache

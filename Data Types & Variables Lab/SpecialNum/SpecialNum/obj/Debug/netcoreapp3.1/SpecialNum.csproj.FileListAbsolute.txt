@@ -1,0 +1,14 @@
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\SpecialNum\SpecialNum\bin\Debug\netcoreapp3.1\SpecialNum.exe
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\SpecialNum\SpecialNum\bin\Debug\netcoreapp3.1\SpecialNum.deps.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\SpecialNum\SpecialNum\bin\Debug\netcoreapp3.1\SpecialNum.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\SpecialNum\SpecialNum\bin\Debug\netcoreapp3.1\SpecialNum.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\SpecialNum\SpecialNum\bin\Debug\netcoreapp3.1\SpecialNum.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\SpecialNum\SpecialNum\bin\Debug\netcoreapp3.1\SpecialNum.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\SpecialNum\SpecialNum\obj\Debug\netcoreapp3.1\SpecialNum.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\SpecialNum\SpecialNum\obj\Debug\netcoreapp3.1\SpecialNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\SpecialNum\SpecialNum\obj\Debug\netcoreapp3.1\SpecialNum.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\SpecialNum\SpecialNum\obj\Debug\netcoreapp3.1\SpecialNum.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\SpecialNum\SpecialNum\obj\Debug\netcoreapp3.1\SpecialNum.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\SpecialNum\SpecialNum\obj\Debug\netcoreapp3.1\SpecialNum.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\SpecialNum\SpecialNum\obj\Debug\netcoreapp3.1\SpecialNum.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\SpecialNum\SpecialNum\obj\Debug\netcoreapp3.1\SpecialNum.genruntimeconfig.cache

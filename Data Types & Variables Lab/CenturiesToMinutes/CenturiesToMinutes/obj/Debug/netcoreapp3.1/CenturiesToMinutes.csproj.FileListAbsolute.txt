@@ -1,0 +1,14 @@
+C:\Coding (Programing Fundamentals)\Data Types & Variables\CenturiesToMinutes\CenturiesToMinutes\bin\Debug\netcoreapp3.1\CenturiesToMinutes.exe
+C:\Coding (Programing Fundamentals)\Data Types & Variables\CenturiesToMinutes\CenturiesToMinutes\bin\Debug\netcoreapp3.1\CenturiesToMinutes.deps.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables\CenturiesToMinutes\CenturiesToMinutes\bin\Debug\netcoreapp3.1\CenturiesToMinutes.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables\CenturiesToMinutes\CenturiesToMinutes\bin\Debug\netcoreapp3.1\CenturiesToMinutes.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables\CenturiesToMinutes\CenturiesToMinutes\bin\Debug\netcoreapp3.1\CenturiesToMinutes.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables\CenturiesToMinutes\CenturiesToMinutes\bin\Debug\netcoreapp3.1\CenturiesToMinutes.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables\CenturiesToMinutes\CenturiesToMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables\CenturiesToMinutes\CenturiesToMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Data Types & Variables\CenturiesToMinutes\CenturiesToMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables\CenturiesToMinutes\CenturiesToMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Data Types & Variables\CenturiesToMinutes\CenturiesToMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables\CenturiesToMinutes\CenturiesToMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables\CenturiesToMinutes\CenturiesToMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables\CenturiesToMinutes\CenturiesToMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.genruntimeconfig.cache

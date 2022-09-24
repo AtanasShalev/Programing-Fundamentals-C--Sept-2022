@@ -1,0 +1,14 @@
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\CharsToString\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.exe
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\CharsToString\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.deps.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\CharsToString\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\CharsToString\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\CharsToString\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\CharsToString\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\CharsToString\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\CharsToString\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\CharsToString\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\CharsToString\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\CharsToString\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\CharsToString\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\CharsToString\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\CharsToString\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.genruntimeconfig.cache

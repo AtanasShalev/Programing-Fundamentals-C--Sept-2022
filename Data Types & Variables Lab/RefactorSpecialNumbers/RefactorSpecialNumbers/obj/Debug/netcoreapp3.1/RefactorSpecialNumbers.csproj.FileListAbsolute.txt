@@ -1,0 +1,14 @@
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorSpecialNumbers\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.exe
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorSpecialNumbers\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.deps.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorSpecialNumbers\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorSpecialNumbers\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorSpecialNumbers\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorSpecialNumbers\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorSpecialNumbers\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorSpecialNumbers\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorSpecialNumbers\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorSpecialNumbers\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorSpecialNumbers\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorSpecialNumbers\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorSpecialNumbers\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorSpecialNumbers\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.genruntimeconfig.cache

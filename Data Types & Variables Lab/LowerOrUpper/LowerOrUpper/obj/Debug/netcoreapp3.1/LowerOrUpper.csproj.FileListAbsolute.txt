@@ -1,0 +1,14 @@
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\LowerOrUpper\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.exe
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\LowerOrUpper\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.deps.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\LowerOrUpper\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\LowerOrUpper\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\LowerOrUpper\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\LowerOrUpper\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.genruntimeconfig.cache

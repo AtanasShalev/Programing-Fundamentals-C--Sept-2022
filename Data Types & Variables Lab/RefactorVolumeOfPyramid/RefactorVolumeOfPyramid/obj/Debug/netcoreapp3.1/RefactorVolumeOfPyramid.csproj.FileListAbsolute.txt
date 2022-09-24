@@ -1,0 +1,14 @@
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.exe
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.deps.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Lab\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\RefactorVolumeOfPyramid.genruntimeconfig.cache

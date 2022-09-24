@@ -1,0 +1,14 @@
+C:\Coding (Programing Basic)\ForeignLanguages\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.exe
+C:\Coding (Programing Basic)\ForeignLanguages\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.deps.json
+C:\Coding (Programing Basic)\ForeignLanguages\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.runtimeconfig.json
+C:\Coding (Programing Basic)\ForeignLanguages\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.runtimeconfig.dev.json
+C:\Coding (Programing Basic)\ForeignLanguages\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.dll
+C:\Coding (Programing Basic)\ForeignLanguages\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.pdb
+C:\Coding (Programing Basic)\ForeignLanguages\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.csproj.AssemblyReference.cache
+C:\Coding (Programing Basic)\ForeignLanguages\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Basic)\ForeignLanguages\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.AssemblyInfoInputs.cache
+C:\Coding (Programing Basic)\ForeignLanguages\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.AssemblyInfo.cs
+C:\Coding (Programing Basic)\ForeignLanguages\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Basic)\ForeignLanguages\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.dll
+C:\Coding (Programing Basic)\ForeignLanguages\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.pdb
+C:\Coding (Programing Basic)\ForeignLanguages\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.genruntimeconfig.cache

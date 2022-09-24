@@ -1,0 +1,14 @@
+C:\Coding (Programing Basic)\BackIn30Min\BackIn30Min\bin\Debug\netcoreapp3.1\BackIn30Min.exe
+C:\Coding (Programing Basic)\BackIn30Min\BackIn30Min\bin\Debug\netcoreapp3.1\BackIn30Min.deps.json
+C:\Coding (Programing Basic)\BackIn30Min\BackIn30Min\bin\Debug\netcoreapp3.1\BackIn30Min.runtimeconfig.json
+C:\Coding (Programing Basic)\BackIn30Min\BackIn30Min\bin\Debug\netcoreapp3.1\BackIn30Min.runtimeconfig.dev.json
+C:\Coding (Programing Basic)\BackIn30Min\BackIn30Min\bin\Debug\netcoreapp3.1\BackIn30Min.dll
+C:\Coding (Programing Basic)\BackIn30Min\BackIn30Min\bin\Debug\netcoreapp3.1\BackIn30Min.pdb
+C:\Coding (Programing Basic)\BackIn30Min\BackIn30Min\obj\Debug\netcoreapp3.1\BackIn30Min.csproj.AssemblyReference.cache
+C:\Coding (Programing Basic)\BackIn30Min\BackIn30Min\obj\Debug\netcoreapp3.1\BackIn30Min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Basic)\BackIn30Min\BackIn30Min\obj\Debug\netcoreapp3.1\BackIn30Min.AssemblyInfoInputs.cache
+C:\Coding (Programing Basic)\BackIn30Min\BackIn30Min\obj\Debug\netcoreapp3.1\BackIn30Min.AssemblyInfo.cs
+C:\Coding (Programing Basic)\BackIn30Min\BackIn30Min\obj\Debug\netcoreapp3.1\BackIn30Min.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Basic)\BackIn30Min\BackIn30Min\obj\Debug\netcoreapp3.1\BackIn30Min.dll
+C:\Coding (Programing Basic)\BackIn30Min\BackIn30Min\obj\Debug\netcoreapp3.1\BackIn30Min.pdb
+C:\Coding (Programing Basic)\BackIn30Min\BackIn30Min\obj\Debug\netcoreapp3.1\BackIn30Min.genruntimeconfig.cache

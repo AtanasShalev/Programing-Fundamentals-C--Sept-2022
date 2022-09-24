@@ -1,0 +1,14 @@
+C:\Coding (Programing Basic)\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+C:\Coding (Programing Basic)\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+C:\Coding (Programing Basic)\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+C:\Coding (Programing Basic)\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+C:\Coding (Programing Basic)\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Coding (Programing Basic)\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Coding (Programing Basic)\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.AssemblyReference.cache
+C:\Coding (Programing Basic)\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Basic)\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+C:\Coding (Programing Basic)\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+C:\Coding (Programing Basic)\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Basic)\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Coding (Programing Basic)\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Coding (Programing Basic)\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Coding (Programing Basic)\Passed\Passed\bin\Debug\netcoreapp3.1\Passed.exe
+C:\Coding (Programing Basic)\Passed\Passed\bin\Debug\netcoreapp3.1\Passed.deps.json
+C:\Coding (Programing Basic)\Passed\Passed\bin\Debug\netcoreapp3.1\Passed.runtimeconfig.json
+C:\Coding (Programing Basic)\Passed\Passed\bin\Debug\netcoreapp3.1\Passed.runtimeconfig.dev.json
+C:\Coding (Programing Basic)\Passed\Passed\bin\Debug\netcoreapp3.1\Passed.dll
+C:\Coding (Programing Basic)\Passed\Passed\bin\Debug\netcoreapp3.1\Passed.pdb
+C:\Coding (Programing Basic)\Passed\Passed\obj\Debug\netcoreapp3.1\Passed.csproj.AssemblyReference.cache
+C:\Coding (Programing Basic)\Passed\Passed\obj\Debug\netcoreapp3.1\Passed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Basic)\Passed\Passed\obj\Debug\netcoreapp3.1\Passed.AssemblyInfoInputs.cache
+C:\Coding (Programing Basic)\Passed\Passed\obj\Debug\netcoreapp3.1\Passed.AssemblyInfo.cs
+C:\Coding (Programing Basic)\Passed\Passed\obj\Debug\netcoreapp3.1\Passed.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Basic)\Passed\Passed\obj\Debug\netcoreapp3.1\Passed.dll
+C:\Coding (Programing Basic)\Passed\Passed\obj\Debug\netcoreapp3.1\Passed.pdb
+C:\Coding (Programing Basic)\Passed\Passed\obj\Debug\netcoreapp3.1\Passed.genruntimeconfig.cache

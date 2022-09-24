@@ -1,0 +1,14 @@
+C:\Coding (Programing Basic)\EvenNum\EvenNum\bin\Debug\netcoreapp3.1\EvenNum.exe
+C:\Coding (Programing Basic)\EvenNum\EvenNum\bin\Debug\netcoreapp3.1\EvenNum.deps.json
+C:\Coding (Programing Basic)\EvenNum\EvenNum\bin\Debug\netcoreapp3.1\EvenNum.runtimeconfig.json
+C:\Coding (Programing Basic)\EvenNum\EvenNum\bin\Debug\netcoreapp3.1\EvenNum.runtimeconfig.dev.json
+C:\Coding (Programing Basic)\EvenNum\EvenNum\bin\Debug\netcoreapp3.1\EvenNum.dll
+C:\Coding (Programing Basic)\EvenNum\EvenNum\bin\Debug\netcoreapp3.1\EvenNum.pdb
+C:\Coding (Programing Basic)\EvenNum\EvenNum\obj\Debug\netcoreapp3.1\EvenNum.csproj.AssemblyReference.cache
+C:\Coding (Programing Basic)\EvenNum\EvenNum\obj\Debug\netcoreapp3.1\EvenNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Basic)\EvenNum\EvenNum\obj\Debug\netcoreapp3.1\EvenNum.AssemblyInfoInputs.cache
+C:\Coding (Programing Basic)\EvenNum\EvenNum\obj\Debug\netcoreapp3.1\EvenNum.AssemblyInfo.cs
+C:\Coding (Programing Basic)\EvenNum\EvenNum\obj\Debug\netcoreapp3.1\EvenNum.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Basic)\EvenNum\EvenNum\obj\Debug\netcoreapp3.1\EvenNum.dll
+C:\Coding (Programing Basic)\EvenNum\EvenNum\obj\Debug\netcoreapp3.1\EvenNum.pdb
+C:\Coding (Programing Basic)\EvenNum\EvenNum\obj\Debug\netcoreapp3.1\EvenNum.genruntimeconfig.cache

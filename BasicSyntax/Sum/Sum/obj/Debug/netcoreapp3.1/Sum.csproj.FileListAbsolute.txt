@@ -1,0 +1,14 @@
+C:\Coding (Programing Basic)\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.exe
+C:\Coding (Programing Basic)\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.deps.json
+C:\Coding (Programing Basic)\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.runtimeconfig.json
+C:\Coding (Programing Basic)\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.runtimeconfig.dev.json
+C:\Coding (Programing Basic)\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.dll
+C:\Coding (Programing Basic)\Sum\Sum\bin\Debug\netcoreapp3.1\Sum.pdb
+C:\Coding (Programing Basic)\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.csproj.AssemblyReference.cache
+C:\Coding (Programing Basic)\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Basic)\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfoInputs.cache
+C:\Coding (Programing Basic)\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfo.cs
+C:\Coding (Programing Basic)\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Basic)\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.dll
+C:\Coding (Programing Basic)\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.pdb
+C:\Coding (Programing Basic)\Sum\Sum\obj\Debug\netcoreapp3.1\Sum.genruntimeconfig.cache

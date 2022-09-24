@@ -1,0 +1,14 @@
+C:\Coding (Programing Basic)\Vacation\Vacation\bin\Debug\netcoreapp3.1\Vacation.exe
+C:\Coding (Programing Basic)\Vacation\Vacation\bin\Debug\netcoreapp3.1\Vacation.deps.json
+C:\Coding (Programing Basic)\Vacation\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.json
+C:\Coding (Programing Basic)\Vacation\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.dev.json
+C:\Coding (Programing Basic)\Vacation\Vacation\bin\Debug\netcoreapp3.1\Vacation.dll
+C:\Coding (Programing Basic)\Vacation\Vacation\bin\Debug\netcoreapp3.1\Vacation.pdb
+C:\Coding (Programing Basic)\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.csproj.AssemblyReference.cache
+C:\Coding (Programing Basic)\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Basic)\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfoInputs.cache
+C:\Coding (Programing Basic)\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfo.cs
+C:\Coding (Programing Basic)\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Basic)\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.dll
+C:\Coding (Programing Basic)\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.pdb
+C:\Coding (Programing Basic)\Vacation\Vacation\obj\Debug\netcoreapp3.1\Vacation.genruntimeconfig.cache

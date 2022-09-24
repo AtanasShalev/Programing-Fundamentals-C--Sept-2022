@@ -1,0 +1,14 @@
+C:\Coding (Programing Basic)\StudentInfo\StudentInfo\bin\Debug\netcoreapp3.1\StudentInfo.exe
+C:\Coding (Programing Basic)\StudentInfo\StudentInfo\bin\Debug\netcoreapp3.1\StudentInfo.deps.json
+C:\Coding (Programing Basic)\StudentInfo\StudentInfo\bin\Debug\netcoreapp3.1\StudentInfo.runtimeconfig.json
+C:\Coding (Programing Basic)\StudentInfo\StudentInfo\bin\Debug\netcoreapp3.1\StudentInfo.runtimeconfig.dev.json
+C:\Coding (Programing Basic)\StudentInfo\StudentInfo\bin\Debug\netcoreapp3.1\StudentInfo.dll
+C:\Coding (Programing Basic)\StudentInfo\StudentInfo\bin\Debug\netcoreapp3.1\StudentInfo.pdb
+C:\Coding (Programing Basic)\StudentInfo\StudentInfo\obj\Debug\netcoreapp3.1\StudentInfo.csproj.AssemblyReference.cache
+C:\Coding (Programing Basic)\StudentInfo\StudentInfo\obj\Debug\netcoreapp3.1\StudentInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Basic)\StudentInfo\StudentInfo\obj\Debug\netcoreapp3.1\StudentInfo.AssemblyInfoInputs.cache
+C:\Coding (Programing Basic)\StudentInfo\StudentInfo\obj\Debug\netcoreapp3.1\StudentInfo.AssemblyInfo.cs
+C:\Coding (Programing Basic)\StudentInfo\StudentInfo\obj\Debug\netcoreapp3.1\StudentInfo.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Basic)\StudentInfo\StudentInfo\obj\Debug\netcoreapp3.1\StudentInfo.dll
+C:\Coding (Programing Basic)\StudentInfo\StudentInfo\obj\Debug\netcoreapp3.1\StudentInfo.pdb
+C:\Coding (Programing Basic)\StudentInfo\StudentInfo\obj\Debug\netcoreapp3.1\StudentInfo.genruntimeconfig.cache

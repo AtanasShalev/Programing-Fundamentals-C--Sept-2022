@@ -1,0 +1,14 @@
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\TriplesOfLatinLetters\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.exe
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\TriplesOfLatinLetters\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.deps.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\TriplesOfLatinLetters\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\TriplesOfLatinLetters\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\TriplesOfLatinLetters\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\TriplesOfLatinLetters\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\TriplesOfLatinLetters\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\TriplesOfLatinLetters\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\TriplesOfLatinLetters\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\TriplesOfLatinLetters\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\TriplesOfLatinLetters\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\TriplesOfLatinLetters\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\TriplesOfLatinLetters\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\TriplesOfLatinLetters\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.genruntimeconfig.cache

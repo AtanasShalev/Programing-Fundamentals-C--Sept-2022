@@ -1,0 +1,14 @@
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\IntegerOperations\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.exe
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\IntegerOperations\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.deps.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\IntegerOperations\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\IntegerOperations\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\IntegerOperations\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\IntegerOperations\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\IntegerOperations\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\IntegerOperations\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\IntegerOperations\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\IntegerOperations\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\IntegerOperations\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\IntegerOperations\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\IntegerOperations\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\IntegerOperations\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumDigits\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.exe
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumDigits\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.deps.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumDigits\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumDigits\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumDigits\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumDigits\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumDigits\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumDigits\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumDigits\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumDigits\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumDigits\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumDigits\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumDigits\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumDigits\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.genruntimeconfig.cache

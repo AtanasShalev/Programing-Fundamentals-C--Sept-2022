@@ -1,0 +1,14 @@
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\PrintPartOfASCIITable\PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\PrintPartOfASCIITable.exe
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\PrintPartOfASCIITable\PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\PrintPartOfASCIITable.deps.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\PrintPartOfASCIITable\PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\PrintPartOfASCIITable.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\PrintPartOfASCIITable\PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\PrintPartOfASCIITable.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\PrintPartOfASCIITable\PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\PrintPartOfASCIITable.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\PrintPartOfASCIITable\PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\PrintPartOfASCIITable.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\PrintPartOfASCIITable\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\PrintPartOfASCIITable\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\PrintPartOfASCIITable\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\PrintPartOfASCIITable\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\PrintPartOfASCIITable\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\PrintPartOfASCIITable\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\PrintPartOfASCIITable\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\PrintPartOfASCIITable\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.genruntimeconfig.cache

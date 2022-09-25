@@ -1,0 +1,14 @@
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\WaterOverflow\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.exe
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\WaterOverflow\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.deps.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\WaterOverflow\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\WaterOverflow\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\WaterOverflow\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\WaterOverflow\WaterOverflow\bin\Debug\netcoreapp3.1\WaterOverflow.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\WaterOverflow\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\WaterOverflow\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\WaterOverflow\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\WaterOverflow\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\WaterOverflow\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\WaterOverflow\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\WaterOverflow\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\WaterOverflow\WaterOverflow\obj\Debug\netcoreapp3.1\WaterOverflow.genruntimeconfig.cache

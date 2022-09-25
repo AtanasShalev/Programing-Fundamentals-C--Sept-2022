@@ -1,0 +1,14 @@
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumOfChars\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumOfChars\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumOfChars\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumOfChars\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumOfChars\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumOfChars\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.exe
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumOfChars\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.deps.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumOfChars\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumOfChars\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumOfChars\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumOfChars\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumOfChars\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.dll
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumOfChars\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.pdb
+C:\Coding (Programing Fundamentals)\Data Types & Variables Exercise\SumOfChars\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.genruntimeconfig.cache

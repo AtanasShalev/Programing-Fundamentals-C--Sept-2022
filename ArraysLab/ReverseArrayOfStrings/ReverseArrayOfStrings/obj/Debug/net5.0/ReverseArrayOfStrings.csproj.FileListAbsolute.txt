@@ -1,0 +1,16 @@
+C:\Coding (Programing Fundamentals)\Arrays\ReverseArrayOfStrings\ReverseArrayOfStrings\bin\Debug\net5.0\ReverseArrayOfStrings.exe
+C:\Coding (Programing Fundamentals)\Arrays\ReverseArrayOfStrings\ReverseArrayOfStrings\bin\Debug\net5.0\ReverseArrayOfStrings.deps.json
+C:\Coding (Programing Fundamentals)\Arrays\ReverseArrayOfStrings\ReverseArrayOfStrings\bin\Debug\net5.0\ReverseArrayOfStrings.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Arrays\ReverseArrayOfStrings\ReverseArrayOfStrings\bin\Debug\net5.0\ReverseArrayOfStrings.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Arrays\ReverseArrayOfStrings\ReverseArrayOfStrings\bin\Debug\net5.0\ReverseArrayOfStrings.dll
+C:\Coding (Programing Fundamentals)\Arrays\ReverseArrayOfStrings\ReverseArrayOfStrings\bin\Debug\net5.0\ReverseArrayOfStrings.pdb
+C:\Coding (Programing Fundamentals)\Arrays\ReverseArrayOfStrings\ReverseArrayOfStrings\obj\Debug\net5.0\ReverseArrayOfStrings.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Arrays\ReverseArrayOfStrings\ReverseArrayOfStrings\obj\Debug\net5.0\ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Arrays\ReverseArrayOfStrings\ReverseArrayOfStrings\obj\Debug\net5.0\ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Arrays\ReverseArrayOfStrings\ReverseArrayOfStrings\obj\Debug\net5.0\ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Arrays\ReverseArrayOfStrings\ReverseArrayOfStrings\obj\Debug\net5.0\ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Arrays\ReverseArrayOfStrings\ReverseArrayOfStrings\obj\Debug\net5.0\ReverseArrayOfStrings.dll
+C:\Coding (Programing Fundamentals)\Arrays\ReverseArrayOfStrings\ReverseArrayOfStrings\obj\Debug\net5.0\refint\ReverseArrayOfStrings.dll
+C:\Coding (Programing Fundamentals)\Arrays\ReverseArrayOfStrings\ReverseArrayOfStrings\obj\Debug\net5.0\ReverseArrayOfStrings.pdb
+C:\Coding (Programing Fundamentals)\Arrays\ReverseArrayOfStrings\ReverseArrayOfStrings\obj\Debug\net5.0\ReverseArrayOfStrings.genruntimeconfig.cache
+C:\Coding (Programing Fundamentals)\Arrays\ReverseArrayOfStrings\ReverseArrayOfStrings\obj\Debug\net5.0\ref\ReverseArrayOfStrings.dll

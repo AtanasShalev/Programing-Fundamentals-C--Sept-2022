@@ -1,0 +1,16 @@
+C:\Coding (Programing Fundamentals)\Arrays\SumEvenNumbers\SumEvenNumbers\bin\Debug\net5.0\SumEvenNumbers.exe
+C:\Coding (Programing Fundamentals)\Arrays\SumEvenNumbers\SumEvenNumbers\bin\Debug\net5.0\SumEvenNumbers.deps.json
+C:\Coding (Programing Fundamentals)\Arrays\SumEvenNumbers\SumEvenNumbers\bin\Debug\net5.0\SumEvenNumbers.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Arrays\SumEvenNumbers\SumEvenNumbers\bin\Debug\net5.0\SumEvenNumbers.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Arrays\SumEvenNumbers\SumEvenNumbers\bin\Debug\net5.0\SumEvenNumbers.dll
+C:\Coding (Programing Fundamentals)\Arrays\SumEvenNumbers\SumEvenNumbers\bin\Debug\net5.0\SumEvenNumbers.pdb
+C:\Coding (Programing Fundamentals)\Arrays\SumEvenNumbers\SumEvenNumbers\obj\Debug\net5.0\SumEvenNumbers.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Arrays\SumEvenNumbers\SumEvenNumbers\obj\Debug\net5.0\SumEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Arrays\SumEvenNumbers\SumEvenNumbers\obj\Debug\net5.0\SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Arrays\SumEvenNumbers\SumEvenNumbers\obj\Debug\net5.0\SumEvenNumbers.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Arrays\SumEvenNumbers\SumEvenNumbers\obj\Debug\net5.0\SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Arrays\SumEvenNumbers\SumEvenNumbers\obj\Debug\net5.0\SumEvenNumbers.dll
+C:\Coding (Programing Fundamentals)\Arrays\SumEvenNumbers\SumEvenNumbers\obj\Debug\net5.0\refint\SumEvenNumbers.dll
+C:\Coding (Programing Fundamentals)\Arrays\SumEvenNumbers\SumEvenNumbers\obj\Debug\net5.0\SumEvenNumbers.pdb
+C:\Coding (Programing Fundamentals)\Arrays\SumEvenNumbers\SumEvenNumbers\obj\Debug\net5.0\SumEvenNumbers.genruntimeconfig.cache
+C:\Coding (Programing Fundamentals)\Arrays\SumEvenNumbers\SumEvenNumbers\obj\Debug\net5.0\ref\SumEvenNumbers.dll

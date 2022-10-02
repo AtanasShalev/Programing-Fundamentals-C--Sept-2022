@@ -1,0 +1,14 @@
+C:\Coding (Programing Fundamentals)\Arrays\DayOfWeek\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Arrays\DayOfWeek\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Arrays\DayOfWeek\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Arrays\DayOfWeek\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Arrays\DayOfWeek\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Arrays\DayOfWeek\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.exe
+C:\Coding (Programing Fundamentals)\Arrays\DayOfWeek\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.deps.json
+C:\Coding (Programing Fundamentals)\Arrays\DayOfWeek\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Arrays\DayOfWeek\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Arrays\DayOfWeek\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.dll
+C:\Coding (Programing Fundamentals)\Arrays\DayOfWeek\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.pdb
+C:\Coding (Programing Fundamentals)\Arrays\DayOfWeek\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.dll
+C:\Coding (Programing Fundamentals)\Arrays\DayOfWeek\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.pdb
+C:\Coding (Programing Fundamentals)\Arrays\DayOfWeek\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.genruntimeconfig.cache

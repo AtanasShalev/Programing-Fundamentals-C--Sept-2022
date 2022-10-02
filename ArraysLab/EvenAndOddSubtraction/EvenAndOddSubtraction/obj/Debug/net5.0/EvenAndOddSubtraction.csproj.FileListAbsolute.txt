@@ -1,0 +1,16 @@
+C:\Coding (Programing Fundamentals)\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\bin\Debug\net5.0\EvenAndOddSubtraction.exe
+C:\Coding (Programing Fundamentals)\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\bin\Debug\net5.0\EvenAndOddSubtraction.deps.json
+C:\Coding (Programing Fundamentals)\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\bin\Debug\net5.0\EvenAndOddSubtraction.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\bin\Debug\net5.0\EvenAndOddSubtraction.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\bin\Debug\net5.0\EvenAndOddSubtraction.dll
+C:\Coding (Programing Fundamentals)\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\bin\Debug\net5.0\EvenAndOddSubtraction.pdb
+C:\Coding (Programing Fundamentals)\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\net5.0\EvenAndOddSubtraction.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\net5.0\EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\net5.0\EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\net5.0\EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\net5.0\EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\net5.0\EvenAndOddSubtraction.dll
+C:\Coding (Programing Fundamentals)\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\net5.0\refint\EvenAndOddSubtraction.dll
+C:\Coding (Programing Fundamentals)\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\net5.0\EvenAndOddSubtraction.pdb
+C:\Coding (Programing Fundamentals)\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\net5.0\EvenAndOddSubtraction.genruntimeconfig.cache
+C:\Coding (Programing Fundamentals)\Arrays\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\net5.0\ref\EvenAndOddSubtraction.dll

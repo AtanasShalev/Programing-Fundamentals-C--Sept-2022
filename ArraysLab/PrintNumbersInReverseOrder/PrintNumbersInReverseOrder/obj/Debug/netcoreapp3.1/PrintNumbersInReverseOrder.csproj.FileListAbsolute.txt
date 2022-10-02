@@ -1,0 +1,14 @@
+C:\Coding (Programing Fundamentals)\Arrays\PrintNumbersInReverseOrder\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.exe
+C:\Coding (Programing Fundamentals)\Arrays\PrintNumbersInReverseOrder\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.deps.json
+C:\Coding (Programing Fundamentals)\Arrays\PrintNumbersInReverseOrder\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Arrays\PrintNumbersInReverseOrder\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Arrays\PrintNumbersInReverseOrder\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.dll
+C:\Coding (Programing Fundamentals)\Arrays\PrintNumbersInReverseOrder\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.pdb
+C:\Coding (Programing Fundamentals)\Arrays\PrintNumbersInReverseOrder\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Arrays\PrintNumbersInReverseOrder\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Arrays\PrintNumbersInReverseOrder\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Arrays\PrintNumbersInReverseOrder\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Arrays\PrintNumbersInReverseOrder\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Arrays\PrintNumbersInReverseOrder\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.dll
+C:\Coding (Programing Fundamentals)\Arrays\PrintNumbersInReverseOrder\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.pdb
+C:\Coding (Programing Fundamentals)\Arrays\PrintNumbersInReverseOrder\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.genruntimeconfig.cache

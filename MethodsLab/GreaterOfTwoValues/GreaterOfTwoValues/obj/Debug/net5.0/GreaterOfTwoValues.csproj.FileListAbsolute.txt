@@ -1,0 +1,16 @@
+C:\Coding (Programing Fundamentals)\MethodsLab\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\MethodsLab\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\MethodsLab\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\GreaterOfTwoValues\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.exe
+C:\Coding (Programing Fundamentals)\MethodsLab\GreaterOfTwoValues\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.deps.json
+C:\Coding (Programing Fundamentals)\MethodsLab\GreaterOfTwoValues\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\MethodsLab\GreaterOfTwoValues\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\MethodsLab\GreaterOfTwoValues\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\GreaterOfTwoValues\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.pdb
+C:\Coding (Programing Fundamentals)\MethodsLab\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\net5.0\refint\GreaterOfTwoValues.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.pdb
+C:\Coding (Programing Fundamentals)\MethodsLab\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.genruntimeconfig.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\net5.0\ref\GreaterOfTwoValues.dll

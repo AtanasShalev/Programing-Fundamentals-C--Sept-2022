@@ -1,0 +1,16 @@
+C:\Coding (Programing Fundamentals)\MethodsLab\MultiplyEvensByOdds\MultiplyEvensByOdds\bin\Debug\net5.0\MultiplyEvensByOdds.exe
+C:\Coding (Programing Fundamentals)\MethodsLab\MultiplyEvensByOdds\MultiplyEvensByOdds\bin\Debug\net5.0\MultiplyEvensByOdds.deps.json
+C:\Coding (Programing Fundamentals)\MethodsLab\MultiplyEvensByOdds\MultiplyEvensByOdds\bin\Debug\net5.0\MultiplyEvensByOdds.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\MethodsLab\MultiplyEvensByOdds\MultiplyEvensByOdds\bin\Debug\net5.0\MultiplyEvensByOdds.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\MethodsLab\MultiplyEvensByOdds\MultiplyEvensByOdds\bin\Debug\net5.0\MultiplyEvensByOdds.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\MultiplyEvensByOdds\MultiplyEvensByOdds\bin\Debug\net5.0\MultiplyEvensByOdds.pdb
+C:\Coding (Programing Fundamentals)\MethodsLab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net5.0\MultiplyEvensByOdds.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net5.0\MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\MethodsLab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net5.0\MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net5.0\MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\MethodsLab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net5.0\MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net5.0\MultiplyEvensByOdds.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net5.0\refint\MultiplyEvensByOdds.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net5.0\MultiplyEvensByOdds.pdb
+C:\Coding (Programing Fundamentals)\MethodsLab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net5.0\MultiplyEvensByOdds.genruntimeconfig.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net5.0\ref\MultiplyEvensByOdds.dll

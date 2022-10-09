@@ -1,0 +1,16 @@
+C:\Coding (Programing Fundamentals)\MethodsLab\Orders\Orders\bin\Debug\net5.0\Orders.exe
+C:\Coding (Programing Fundamentals)\MethodsLab\Orders\Orders\bin\Debug\net5.0\Orders.deps.json
+C:\Coding (Programing Fundamentals)\MethodsLab\Orders\Orders\bin\Debug\net5.0\Orders.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\MethodsLab\Orders\Orders\bin\Debug\net5.0\Orders.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\MethodsLab\Orders\Orders\bin\Debug\net5.0\Orders.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\Orders\Orders\bin\Debug\net5.0\Orders.pdb
+C:\Coding (Programing Fundamentals)\MethodsLab\Orders\Orders\obj\Debug\net5.0\Orders.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\Orders\Orders\obj\Debug\net5.0\Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\MethodsLab\Orders\Orders\obj\Debug\net5.0\Orders.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\Orders\Orders\obj\Debug\net5.0\Orders.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\MethodsLab\Orders\Orders\obj\Debug\net5.0\Orders.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\Orders\Orders\obj\Debug\net5.0\Orders.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\Orders\Orders\obj\Debug\net5.0\refint\Orders.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\Orders\Orders\obj\Debug\net5.0\Orders.pdb
+C:\Coding (Programing Fundamentals)\MethodsLab\Orders\Orders\obj\Debug\net5.0\Orders.genruntimeconfig.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\Orders\Orders\obj\Debug\net5.0\ref\Orders.dll

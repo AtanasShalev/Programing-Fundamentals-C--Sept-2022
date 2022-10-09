@@ -1,0 +1,16 @@
+C:\Coding (Programing Fundamentals)\MethodsLab\SignOfIntegerNumbers\SignOfIntegerNumbers\bin\Debug\net5.0\SignOfIntegerNumbers.exe
+C:\Coding (Programing Fundamentals)\MethodsLab\SignOfIntegerNumbers\SignOfIntegerNumbers\bin\Debug\net5.0\SignOfIntegerNumbers.deps.json
+C:\Coding (Programing Fundamentals)\MethodsLab\SignOfIntegerNumbers\SignOfIntegerNumbers\bin\Debug\net5.0\SignOfIntegerNumbers.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\MethodsLab\SignOfIntegerNumbers\SignOfIntegerNumbers\bin\Debug\net5.0\SignOfIntegerNumbers.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\MethodsLab\SignOfIntegerNumbers\SignOfIntegerNumbers\bin\Debug\net5.0\SignOfIntegerNumbers.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\SignOfIntegerNumbers\SignOfIntegerNumbers\bin\Debug\net5.0\SignOfIntegerNumbers.pdb
+C:\Coding (Programing Fundamentals)\MethodsLab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net5.0\SignOfIntegerNumbers.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net5.0\SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\MethodsLab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net5.0\SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net5.0\SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\MethodsLab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net5.0\SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net5.0\SignOfIntegerNumbers.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net5.0\refint\SignOfIntegerNumbers.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net5.0\SignOfIntegerNumbers.pdb
+C:\Coding (Programing Fundamentals)\MethodsLab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net5.0\SignOfIntegerNumbers.genruntimeconfig.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net5.0\ref\SignOfIntegerNumbers.dll

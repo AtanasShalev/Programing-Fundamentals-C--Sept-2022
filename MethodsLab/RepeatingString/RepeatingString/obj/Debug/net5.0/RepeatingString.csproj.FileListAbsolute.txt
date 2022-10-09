@@ -1,0 +1,16 @@
+C:\Coding (Programing Fundamentals)\MethodsLab\RepeatingString\RepeatingString\bin\Debug\net5.0\RepeatingString.exe
+C:\Coding (Programing Fundamentals)\MethodsLab\RepeatingString\RepeatingString\bin\Debug\net5.0\RepeatingString.deps.json
+C:\Coding (Programing Fundamentals)\MethodsLab\RepeatingString\RepeatingString\bin\Debug\net5.0\RepeatingString.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\MethodsLab\RepeatingString\RepeatingString\bin\Debug\net5.0\RepeatingString.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\MethodsLab\RepeatingString\RepeatingString\bin\Debug\net5.0\RepeatingString.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\RepeatingString\RepeatingString\bin\Debug\net5.0\RepeatingString.pdb
+C:\Coding (Programing Fundamentals)\MethodsLab\RepeatingString\RepeatingString\obj\Debug\net5.0\RepeatingString.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\RepeatingString\RepeatingString\obj\Debug\net5.0\RepeatingString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\MethodsLab\RepeatingString\RepeatingString\obj\Debug\net5.0\RepeatingString.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\RepeatingString\RepeatingString\obj\Debug\net5.0\RepeatingString.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\MethodsLab\RepeatingString\RepeatingString\obj\Debug\net5.0\RepeatingString.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\RepeatingString\RepeatingString\obj\Debug\net5.0\RepeatingString.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\RepeatingString\RepeatingString\obj\Debug\net5.0\refint\RepeatingString.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\RepeatingString\RepeatingString\obj\Debug\net5.0\RepeatingString.pdb
+C:\Coding (Programing Fundamentals)\MethodsLab\RepeatingString\RepeatingString\obj\Debug\net5.0\RepeatingString.genruntimeconfig.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\RepeatingString\RepeatingString\obj\Debug\net5.0\ref\RepeatingString.dll

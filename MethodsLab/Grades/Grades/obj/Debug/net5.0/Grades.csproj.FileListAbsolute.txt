@@ -1,0 +1,16 @@
+C:\Coding (Programing Fundamentals)\MethodsLab\Grades\Grades\bin\Debug\net5.0\Grades.exe
+C:\Coding (Programing Fundamentals)\MethodsLab\Grades\Grades\bin\Debug\net5.0\Grades.deps.json
+C:\Coding (Programing Fundamentals)\MethodsLab\Grades\Grades\bin\Debug\net5.0\Grades.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\MethodsLab\Grades\Grades\bin\Debug\net5.0\Grades.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\MethodsLab\Grades\Grades\bin\Debug\net5.0\Grades.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\Grades\Grades\bin\Debug\net5.0\Grades.pdb
+C:\Coding (Programing Fundamentals)\MethodsLab\Grades\Grades\obj\Debug\net5.0\Grades.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\Grades\Grades\obj\Debug\net5.0\Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\MethodsLab\Grades\Grades\obj\Debug\net5.0\Grades.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\Grades\Grades\obj\Debug\net5.0\Grades.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\MethodsLab\Grades\Grades\obj\Debug\net5.0\Grades.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\Grades\Grades\obj\Debug\net5.0\Grades.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\Grades\Grades\obj\Debug\net5.0\refint\Grades.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\Grades\Grades\obj\Debug\net5.0\Grades.pdb
+C:\Coding (Programing Fundamentals)\MethodsLab\Grades\Grades\obj\Debug\net5.0\Grades.genruntimeconfig.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\Grades\Grades\obj\Debug\net5.0\ref\Grades.dll

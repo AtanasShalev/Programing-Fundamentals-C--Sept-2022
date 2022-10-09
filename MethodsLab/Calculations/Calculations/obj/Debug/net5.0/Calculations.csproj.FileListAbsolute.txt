@@ -1,0 +1,16 @@
+C:\Coding (Programing Fundamentals)\MethodsLab\Calculations\Calculations\bin\Debug\net5.0\Calculations.exe
+C:\Coding (Programing Fundamentals)\MethodsLab\Calculations\Calculations\bin\Debug\net5.0\Calculations.deps.json
+C:\Coding (Programing Fundamentals)\MethodsLab\Calculations\Calculations\bin\Debug\net5.0\Calculations.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\MethodsLab\Calculations\Calculations\bin\Debug\net5.0\Calculations.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\MethodsLab\Calculations\Calculations\bin\Debug\net5.0\Calculations.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\Calculations\Calculations\bin\Debug\net5.0\Calculations.pdb
+C:\Coding (Programing Fundamentals)\MethodsLab\Calculations\Calculations\obj\Debug\net5.0\Calculations.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\Calculations\Calculations\obj\Debug\net5.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\MethodsLab\Calculations\Calculations\obj\Debug\net5.0\Calculations.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\Calculations\Calculations\obj\Debug\net5.0\Calculations.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\MethodsLab\Calculations\Calculations\obj\Debug\net5.0\Calculations.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\Calculations\Calculations\obj\Debug\net5.0\Calculations.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\Calculations\Calculations\obj\Debug\net5.0\refint\Calculations.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\Calculations\Calculations\obj\Debug\net5.0\Calculations.pdb
+C:\Coding (Programing Fundamentals)\MethodsLab\Calculations\Calculations\obj\Debug\net5.0\Calculations.genruntimeconfig.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\Calculations\Calculations\obj\Debug\net5.0\ref\Calculations.dll

@@ -1,0 +1,16 @@
+C:\Coding (Programing Fundamentals)\MethodsLab\CalculateRectangleArea\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.exe
+C:\Coding (Programing Fundamentals)\MethodsLab\CalculateRectangleArea\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.deps.json
+C:\Coding (Programing Fundamentals)\MethodsLab\CalculateRectangleArea\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\MethodsLab\CalculateRectangleArea\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\MethodsLab\CalculateRectangleArea\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\CalculateRectangleArea\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.pdb
+C:\Coding (Programing Fundamentals)\MethodsLab\CalculateRectangleArea\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\CalculateRectangleArea\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\MethodsLab\CalculateRectangleArea\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\CalculateRectangleArea\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\MethodsLab\CalculateRectangleArea\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\CalculateRectangleArea\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\CalculateRectangleArea\CalculateRectangleArea\obj\Debug\net5.0\refint\CalculateRectangleArea.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\CalculateRectangleArea\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.pdb
+C:\Coding (Programing Fundamentals)\MethodsLab\CalculateRectangleArea\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.genruntimeconfig.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\CalculateRectangleArea\CalculateRectangleArea\obj\Debug\net5.0\ref\CalculateRectangleArea.dll

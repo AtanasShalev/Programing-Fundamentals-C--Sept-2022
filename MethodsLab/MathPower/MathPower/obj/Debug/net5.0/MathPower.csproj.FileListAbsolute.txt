@@ -1,0 +1,16 @@
+C:\Coding (Programing Fundamentals)\MethodsLab\MathPower\MathPower\bin\Debug\net5.0\MathPower.exe
+C:\Coding (Programing Fundamentals)\MethodsLab\MathPower\MathPower\bin\Debug\net5.0\MathPower.deps.json
+C:\Coding (Programing Fundamentals)\MethodsLab\MathPower\MathPower\bin\Debug\net5.0\MathPower.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\MethodsLab\MathPower\MathPower\bin\Debug\net5.0\MathPower.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\MethodsLab\MathPower\MathPower\bin\Debug\net5.0\MathPower.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\MathPower\MathPower\bin\Debug\net5.0\MathPower.pdb
+C:\Coding (Programing Fundamentals)\MethodsLab\MathPower\MathPower\obj\Debug\net5.0\MathPower.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\MathPower\MathPower\obj\Debug\net5.0\MathPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\MethodsLab\MathPower\MathPower\obj\Debug\net5.0\MathPower.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\MathPower\MathPower\obj\Debug\net5.0\MathPower.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\MethodsLab\MathPower\MathPower\obj\Debug\net5.0\MathPower.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\MathPower\MathPower\obj\Debug\net5.0\MathPower.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\MathPower\MathPower\obj\Debug\net5.0\refint\MathPower.dll
+C:\Coding (Programing Fundamentals)\MethodsLab\MathPower\MathPower\obj\Debug\net5.0\MathPower.pdb
+C:\Coding (Programing Fundamentals)\MethodsLab\MathPower\MathPower\obj\Debug\net5.0\MathPower.genruntimeconfig.cache
+C:\Coding (Programing Fundamentals)\MethodsLab\MathPower\MathPower\obj\Debug\net5.0\ref\MathPower.dll

@@ -1,0 +1,16 @@
+C:\Coding (Programing Fundamentals)\MidExam\DeckOfCards\DeckOfCards\bin\Debug\net5.0\DeckOfCards.exe
+C:\Coding (Programing Fundamentals)\MidExam\DeckOfCards\DeckOfCards\bin\Debug\net5.0\DeckOfCards.deps.json
+C:\Coding (Programing Fundamentals)\MidExam\DeckOfCards\DeckOfCards\bin\Debug\net5.0\DeckOfCards.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\MidExam\DeckOfCards\DeckOfCards\bin\Debug\net5.0\DeckOfCards.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\MidExam\DeckOfCards\DeckOfCards\bin\Debug\net5.0\DeckOfCards.dll
+C:\Coding (Programing Fundamentals)\MidExam\DeckOfCards\DeckOfCards\bin\Debug\net5.0\DeckOfCards.pdb
+C:\Coding (Programing Fundamentals)\MidExam\DeckOfCards\DeckOfCards\obj\Debug\net5.0\DeckOfCards.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\MidExam\DeckOfCards\DeckOfCards\obj\Debug\net5.0\DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\MidExam\DeckOfCards\DeckOfCards\obj\Debug\net5.0\DeckOfCards.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\MidExam\DeckOfCards\DeckOfCards\obj\Debug\net5.0\DeckOfCards.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\MidExam\DeckOfCards\DeckOfCards\obj\Debug\net5.0\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\MidExam\DeckOfCards\DeckOfCards\obj\Debug\net5.0\DeckOfCards.dll
+C:\Coding (Programing Fundamentals)\MidExam\DeckOfCards\DeckOfCards\obj\Debug\net5.0\refint\DeckOfCards.dll
+C:\Coding (Programing Fundamentals)\MidExam\DeckOfCards\DeckOfCards\obj\Debug\net5.0\DeckOfCards.pdb
+C:\Coding (Programing Fundamentals)\MidExam\DeckOfCards\DeckOfCards\obj\Debug\net5.0\DeckOfCards.genruntimeconfig.cache
+C:\Coding (Programing Fundamentals)\MidExam\DeckOfCards\DeckOfCards\obj\Debug\net5.0\ref\DeckOfCards.dll

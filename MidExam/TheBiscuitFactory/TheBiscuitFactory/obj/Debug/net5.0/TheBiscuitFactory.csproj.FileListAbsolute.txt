@@ -1,0 +1,16 @@
+C:\Coding (Programing Fundamentals)\MidExam\TheBiscuitFactory\TheBiscuitFactory\bin\Debug\net5.0\TheBiscuitFactory.exe
+C:\Coding (Programing Fundamentals)\MidExam\TheBiscuitFactory\TheBiscuitFactory\bin\Debug\net5.0\TheBiscuitFactory.deps.json
+C:\Coding (Programing Fundamentals)\MidExam\TheBiscuitFactory\TheBiscuitFactory\bin\Debug\net5.0\TheBiscuitFactory.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\MidExam\TheBiscuitFactory\TheBiscuitFactory\bin\Debug\net5.0\TheBiscuitFactory.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\MidExam\TheBiscuitFactory\TheBiscuitFactory\bin\Debug\net5.0\TheBiscuitFactory.dll
+C:\Coding (Programing Fundamentals)\MidExam\TheBiscuitFactory\TheBiscuitFactory\bin\Debug\net5.0\TheBiscuitFactory.pdb
+C:\Coding (Programing Fundamentals)\MidExam\TheBiscuitFactory\TheBiscuitFactory\obj\Debug\net5.0\TheBiscuitFactory.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\MidExam\TheBiscuitFactory\TheBiscuitFactory\obj\Debug\net5.0\TheBiscuitFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\MidExam\TheBiscuitFactory\TheBiscuitFactory\obj\Debug\net5.0\TheBiscuitFactory.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\MidExam\TheBiscuitFactory\TheBiscuitFactory\obj\Debug\net5.0\TheBiscuitFactory.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\MidExam\TheBiscuitFactory\TheBiscuitFactory\obj\Debug\net5.0\TheBiscuitFactory.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\MidExam\TheBiscuitFactory\TheBiscuitFactory\obj\Debug\net5.0\TheBiscuitFactory.dll
+C:\Coding (Programing Fundamentals)\MidExam\TheBiscuitFactory\TheBiscuitFactory\obj\Debug\net5.0\refint\TheBiscuitFactory.dll
+C:\Coding (Programing Fundamentals)\MidExam\TheBiscuitFactory\TheBiscuitFactory\obj\Debug\net5.0\TheBiscuitFactory.pdb
+C:\Coding (Programing Fundamentals)\MidExam\TheBiscuitFactory\TheBiscuitFactory\obj\Debug\net5.0\TheBiscuitFactory.genruntimeconfig.cache
+C:\Coding (Programing Fundamentals)\MidExam\TheBiscuitFactory\TheBiscuitFactory\obj\Debug\net5.0\ref\TheBiscuitFactory.dll

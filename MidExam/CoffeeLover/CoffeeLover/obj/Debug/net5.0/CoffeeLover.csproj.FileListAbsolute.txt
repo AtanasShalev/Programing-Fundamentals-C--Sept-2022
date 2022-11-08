@@ -1,0 +1,16 @@
+C:\Coding (Programing Fundamentals)\MidExam\CoffeeLover\CoffeeLover\bin\Debug\net5.0\CoffeeLover.exe
+C:\Coding (Programing Fundamentals)\MidExam\CoffeeLover\CoffeeLover\bin\Debug\net5.0\CoffeeLover.deps.json
+C:\Coding (Programing Fundamentals)\MidExam\CoffeeLover\CoffeeLover\bin\Debug\net5.0\CoffeeLover.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\MidExam\CoffeeLover\CoffeeLover\bin\Debug\net5.0\CoffeeLover.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\MidExam\CoffeeLover\CoffeeLover\bin\Debug\net5.0\CoffeeLover.dll
+C:\Coding (Programing Fundamentals)\MidExam\CoffeeLover\CoffeeLover\bin\Debug\net5.0\CoffeeLover.pdb
+C:\Coding (Programing Fundamentals)\MidExam\CoffeeLover\CoffeeLover\obj\Debug\net5.0\CoffeeLover.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\MidExam\CoffeeLover\CoffeeLover\obj\Debug\net5.0\CoffeeLover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\MidExam\CoffeeLover\CoffeeLover\obj\Debug\net5.0\CoffeeLover.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\MidExam\CoffeeLover\CoffeeLover\obj\Debug\net5.0\CoffeeLover.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\MidExam\CoffeeLover\CoffeeLover\obj\Debug\net5.0\CoffeeLover.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\MidExam\CoffeeLover\CoffeeLover\obj\Debug\net5.0\CoffeeLover.dll
+C:\Coding (Programing Fundamentals)\MidExam\CoffeeLover\CoffeeLover\obj\Debug\net5.0\refint\CoffeeLover.dll
+C:\Coding (Programing Fundamentals)\MidExam\CoffeeLover\CoffeeLover\obj\Debug\net5.0\CoffeeLover.pdb
+C:\Coding (Programing Fundamentals)\MidExam\CoffeeLover\CoffeeLover\obj\Debug\net5.0\CoffeeLover.genruntimeconfig.cache
+C:\Coding (Programing Fundamentals)\MidExam\CoffeeLover\CoffeeLover\obj\Debug\net5.0\ref\CoffeeLover.dll

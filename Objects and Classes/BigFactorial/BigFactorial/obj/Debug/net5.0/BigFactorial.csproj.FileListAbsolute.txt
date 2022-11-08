@@ -1,0 +1,16 @@
+C:\Coding (Programing Fundamentals)\Objects and Classes\BigFactorial\BigFactorial\bin\Debug\net5.0\BigFactorial.exe
+C:\Coding (Programing Fundamentals)\Objects and Classes\BigFactorial\BigFactorial\bin\Debug\net5.0\BigFactorial.deps.json
+C:\Coding (Programing Fundamentals)\Objects and Classes\BigFactorial\BigFactorial\bin\Debug\net5.0\BigFactorial.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Objects and Classes\BigFactorial\BigFactorial\bin\Debug\net5.0\BigFactorial.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Objects and Classes\BigFactorial\BigFactorial\bin\Debug\net5.0\BigFactorial.dll
+C:\Coding (Programing Fundamentals)\Objects and Classes\BigFactorial\BigFactorial\bin\Debug\net5.0\BigFactorial.pdb
+C:\Coding (Programing Fundamentals)\Objects and Classes\BigFactorial\BigFactorial\obj\Debug\net5.0\BigFactorial.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Objects and Classes\BigFactorial\BigFactorial\obj\Debug\net5.0\BigFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Objects and Classes\BigFactorial\BigFactorial\obj\Debug\net5.0\BigFactorial.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Objects and Classes\BigFactorial\BigFactorial\obj\Debug\net5.0\BigFactorial.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Objects and Classes\BigFactorial\BigFactorial\obj\Debug\net5.0\BigFactorial.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Objects and Classes\BigFactorial\BigFactorial\obj\Debug\net5.0\BigFactorial.dll
+C:\Coding (Programing Fundamentals)\Objects and Classes\BigFactorial\BigFactorial\obj\Debug\net5.0\refint\BigFactorial.dll
+C:\Coding (Programing Fundamentals)\Objects and Classes\BigFactorial\BigFactorial\obj\Debug\net5.0\BigFactorial.pdb
+C:\Coding (Programing Fundamentals)\Objects and Classes\BigFactorial\BigFactorial\obj\Debug\net5.0\BigFactorial.genruntimeconfig.cache
+C:\Coding (Programing Fundamentals)\Objects and Classes\BigFactorial\BigFactorial\obj\Debug\net5.0\ref\BigFactorial.dll

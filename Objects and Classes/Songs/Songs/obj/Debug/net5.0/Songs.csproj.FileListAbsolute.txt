@@ -1,0 +1,16 @@
+C:\Coding (Programing Fundamentals)\Objects and Classes\Songs\Songs\bin\Debug\net5.0\Songs.exe
+C:\Coding (Programing Fundamentals)\Objects and Classes\Songs\Songs\bin\Debug\net5.0\Songs.deps.json
+C:\Coding (Programing Fundamentals)\Objects and Classes\Songs\Songs\bin\Debug\net5.0\Songs.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Objects and Classes\Songs\Songs\bin\Debug\net5.0\Songs.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Objects and Classes\Songs\Songs\bin\Debug\net5.0\Songs.dll
+C:\Coding (Programing Fundamentals)\Objects and Classes\Songs\Songs\bin\Debug\net5.0\Songs.pdb
+C:\Coding (Programing Fundamentals)\Objects and Classes\Songs\Songs\obj\Debug\net5.0\Songs.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Objects and Classes\Songs\Songs\obj\Debug\net5.0\Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Objects and Classes\Songs\Songs\obj\Debug\net5.0\Songs.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Objects and Classes\Songs\Songs\obj\Debug\net5.0\Songs.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Objects and Classes\Songs\Songs\obj\Debug\net5.0\Songs.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Objects and Classes\Songs\Songs\obj\Debug\net5.0\Songs.dll
+C:\Coding (Programing Fundamentals)\Objects and Classes\Songs\Songs\obj\Debug\net5.0\refint\Songs.dll
+C:\Coding (Programing Fundamentals)\Objects and Classes\Songs\Songs\obj\Debug\net5.0\Songs.pdb
+C:\Coding (Programing Fundamentals)\Objects and Classes\Songs\Songs\obj\Debug\net5.0\Songs.genruntimeconfig.cache
+C:\Coding (Programing Fundamentals)\Objects and Classes\Songs\Songs\obj\Debug\net5.0\ref\Songs.dll

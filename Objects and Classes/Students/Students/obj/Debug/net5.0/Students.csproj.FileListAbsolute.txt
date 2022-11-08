@@ -1,0 +1,16 @@
+C:\Coding (Programing Fundamentals)\Objects and Classes\Students\Students\bin\Debug\net5.0\Students.exe
+C:\Coding (Programing Fundamentals)\Objects and Classes\Students\Students\bin\Debug\net5.0\Students.deps.json
+C:\Coding (Programing Fundamentals)\Objects and Classes\Students\Students\bin\Debug\net5.0\Students.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Objects and Classes\Students\Students\bin\Debug\net5.0\Students.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Objects and Classes\Students\Students\bin\Debug\net5.0\Students.dll
+C:\Coding (Programing Fundamentals)\Objects and Classes\Students\Students\bin\Debug\net5.0\Students.pdb
+C:\Coding (Programing Fundamentals)\Objects and Classes\Students\Students\obj\Debug\net5.0\Students.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Objects and Classes\Students\Students\obj\Debug\net5.0\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Objects and Classes\Students\Students\obj\Debug\net5.0\Students.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Objects and Classes\Students\Students\obj\Debug\net5.0\Students.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Objects and Classes\Students\Students\obj\Debug\net5.0\Students.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Objects and Classes\Students\Students\obj\Debug\net5.0\Students.dll
+C:\Coding (Programing Fundamentals)\Objects and Classes\Students\Students\obj\Debug\net5.0\refint\Students.dll
+C:\Coding (Programing Fundamentals)\Objects and Classes\Students\Students\obj\Debug\net5.0\Students.pdb
+C:\Coding (Programing Fundamentals)\Objects and Classes\Students\Students\obj\Debug\net5.0\Students.genruntimeconfig.cache
+C:\Coding (Programing Fundamentals)\Objects and Classes\Students\Students\obj\Debug\net5.0\ref\Students.dll

@@ -1,0 +1,16 @@
+C:\Coding (Programing Fundamentals)\Objects and Classes\RanodomizeWords\RanodomizeWords\bin\Debug\net5.0\RanodomizeWords.exe
+C:\Coding (Programing Fundamentals)\Objects and Classes\RanodomizeWords\RanodomizeWords\bin\Debug\net5.0\RanodomizeWords.deps.json
+C:\Coding (Programing Fundamentals)\Objects and Classes\RanodomizeWords\RanodomizeWords\bin\Debug\net5.0\RanodomizeWords.runtimeconfig.json
+C:\Coding (Programing Fundamentals)\Objects and Classes\RanodomizeWords\RanodomizeWords\bin\Debug\net5.0\RanodomizeWords.runtimeconfig.dev.json
+C:\Coding (Programing Fundamentals)\Objects and Classes\RanodomizeWords\RanodomizeWords\bin\Debug\net5.0\RanodomizeWords.dll
+C:\Coding (Programing Fundamentals)\Objects and Classes\RanodomizeWords\RanodomizeWords\bin\Debug\net5.0\RanodomizeWords.pdb
+C:\Coding (Programing Fundamentals)\Objects and Classes\RanodomizeWords\RanodomizeWords\obj\Debug\net5.0\RanodomizeWords.csproj.AssemblyReference.cache
+C:\Coding (Programing Fundamentals)\Objects and Classes\RanodomizeWords\RanodomizeWords\obj\Debug\net5.0\RanodomizeWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding (Programing Fundamentals)\Objects and Classes\RanodomizeWords\RanodomizeWords\obj\Debug\net5.0\RanodomizeWords.AssemblyInfoInputs.cache
+C:\Coding (Programing Fundamentals)\Objects and Classes\RanodomizeWords\RanodomizeWords\obj\Debug\net5.0\RanodomizeWords.AssemblyInfo.cs
+C:\Coding (Programing Fundamentals)\Objects and Classes\RanodomizeWords\RanodomizeWords\obj\Debug\net5.0\RanodomizeWords.csproj.CoreCompileInputs.cache
+C:\Coding (Programing Fundamentals)\Objects and Classes\RanodomizeWords\RanodomizeWords\obj\Debug\net5.0\RanodomizeWords.dll
+C:\Coding (Programing Fundamentals)\Objects and Classes\RanodomizeWords\RanodomizeWords\obj\Debug\net5.0\refint\RanodomizeWords.dll
+C:\Coding (Programing Fundamentals)\Objects and Classes\RanodomizeWords\RanodomizeWords\obj\Debug\net5.0\RanodomizeWords.pdb
+C:\Coding (Programing Fundamentals)\Objects and Classes\RanodomizeWords\RanodomizeWords\obj\Debug\net5.0\RanodomizeWords.genruntimeconfig.cache
+C:\Coding (Programing Fundamentals)\Objects and Classes\RanodomizeWords\RanodomizeWords\obj\Debug\net5.0\ref\RanodomizeWords.dll
